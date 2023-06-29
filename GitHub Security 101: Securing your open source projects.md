@@ -1,5 +1,4 @@
-# From Vulnerability to Vigilance: Securing Your Open Source Projects on GitHub (1)
-
+# GitHub Security 101: Securing your open source projects
 Title: Securing Open Source Projects on GitHub
 
 Alt title: From Vulnerability to Vigilance: Securing Your Open Source Projects on GitHub
