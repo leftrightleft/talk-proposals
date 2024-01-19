@@ -1,18 +1,18 @@
-# How to host a crypto-mining operation in 3 short minutes
+# How to accidentally host a crypto-mining operation in less than 3 minutes
 
 ## Summary
 
-Public GitHub repositories are a gold mine for credential thieves. In fact, it takes only 3 minutes for AWS tokens written to public repositories to be stolen by crypto bots. In this talk, we’ll explore how credentials are leaked on GitHub and what GitHub is doing to prevent credential exposure.
+Public GitHub repositories are a gold mine for credential thieves. In fact, it takes only 3 minutes for AWS tokens written to public repositories to be stolen by crypto-mining bots. Once they have those tokens, your infrastructure becomes their mining operation. In this talk, we’ll explore how credentials are leaked on GitHub and how you can prevent these leaks.
 
 ## Abstract
 
-Public GitHub repositories are a gold mine for credential thieves. In fact, it takes only 3 minutes for AWS tokens written to public repositories to be stolen by crypto bots. However, AWS tokens are only one of many types of credentials leaked every day. 
+Public GitHub repositories are a gold mine for credential thieves. In fact, it takes only 3 minutes for AWS tokens written to public repositories to be stolen by crypto-mining bots. Once they have those tokens, your infrastructure quickly becomes their mining operation.
 
-At GitHub, we see this problem as a fundamental risk to the open source software supply-chain. 
+However, AWS tokens are only one of many types of credentials leaked every day. At GitHub, we see this problem as a fundamental risk to the open source software supply-chain. 
 
 In this session, we’ll share how GitHub is stopping credentials from being published to public repositories. We’ll talk about the most common types of secrets we see on our platform, how they’re leaked, and how you can identify and prevent them from being stored in plain-text in your environment. 
 
-Join us to learn how we can all work together to put a stop to secret leaks and protect your organization and the open source ecosystem from security breaches.
+Join us to learn how we can all work together to put a stop to secret leaks and protect the open source ecosystem from security breaches.
 
 ## Outline
 
